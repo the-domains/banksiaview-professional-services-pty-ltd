@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Banksiaview Professional Services ]]></title>
+        <description><![CDATA[Banksiaview Professional Services ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 06:23:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://images.unsplash.com/photo-1452806723698-a8daf14aa079?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=66b9076f2aa4570022255ce0ef3d6f94">]]></description>
+            <link>undefinedbc60d867-9ce6-4dbb-bd5f-5f51926c6e46/index.html</link>
+            <guid isPermaLink="false">bc60d867-9ce6-4dbb-bd5f-5f51926c6e46</guid>
+            <pubDate>Wed, 06 Apr 2016 06:23:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
