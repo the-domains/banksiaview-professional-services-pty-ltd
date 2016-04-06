@@ -1,6 +1,6 @@
 name: Banksiaview Professional Services Pty Ltd
 favicon: null
-layout_spectrum: 0.6620067765470594
+layout_spectrum: 1
 typography_spectrum: 0.9966820774134248
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.20683347946032882
+  brandStrength: 1
   lightness: 0.47114218957722187
-  saturation: 0.5375037877820432
+  saturation: 0.6875
   rhythmicContrast: 0.08955195150338113
 purpose: []
